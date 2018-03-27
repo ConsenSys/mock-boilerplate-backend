@@ -1,0 +1,26 @@
+{
+  "name": "mock-boilerplate-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasoonS/adhara-mock-boilerplate-backend.git"
+  },
+  "author": "Jason Smythe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JasoonS/adhara-mock-boilerplate-backend/issues"
+  },
+  "homepage": "https://github.com/JasoonS/adhara-mock-boilerplate-backend#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.2.0",
+    "request": "^2.85.0",
+    "request-promise-native": "^1.0.5"
+  }
+}
